@@ -3,16 +3,17 @@
 ## Capturas de Pantalla
 
 ### Vista Principal
-<img width="1275" height="781" alt="image" src="https://github.com/user-attachments/assets/bfb10dc7-b90e-47b2-b1ac-4516e75891e6" />
+![Imagen de WhatsApp 2025-11-26 a las 18 43 20_86c95bf8](https://github.com/user-attachments/assets/72d84a8a-5dee-495e-bd8c-d160d8ad7c33)
 
 ### Crear/Editar Nota
-<img width="1279" height="775" alt="image" src="https://github.com/user-attachments/assets/f61ede7b-4275-41fa-8c70-77984d0d321a" />
-<img width="1276" height="783" alt="image" src="https://github.com/user-attachments/assets/5fae1ec3-d56a-4142-af15-dd6832d903cd" />
-<img width="1276" height="786" alt="image" src="https://github.com/user-attachments/assets/c392a945-2a17-4d1f-923a-255788f36971" />
-<img width="1273" height="779" alt="image" src="https://github.com/user-attachments/assets/e4a957a2-b2e8-4fa0-b42c-b1392d6806b7" />
+![Imagen de WhatsApp 2025-11-26 a las 18 43 20_7b8b7630](https://github.com/user-attachments/assets/c19ba76e-14e9-44dd-a572-b7f957479146)
+![Imagen de WhatsApp 2025-11-26 a las 18 43 19_398f21c1](https://github.com/user-attachments/assets/267874cc-9af8-4dae-8340-ceea982fb085)
+![Imagen de WhatsApp 2025-11-26 a las 18 43 21_de448703](https://github.com/user-attachments/assets/83101bce-aac1-45c6-8e28-a312ff8c3b76)
+![Imagen de WhatsApp 2025-11-26 a las 18 43 21_31d472e2](https://github.com/user-attachments/assets/f1eb63e1-bc7a-4f96-ba7d-67af61f9bf93)
+
 
 ### MongoDB
-<img width="1646" height="758" alt="image" src="https://github.com/user-attachments/assets/8e45711e-052f-424f-86e6-3ba7db684439" />
+![Imagen de WhatsApp 2025-11-26 a las 18 43 22_b58cb42f](https://github.com/user-attachments/assets/7a1da4e5-dd67-4c1b-8ecb-513981f36576)
 
 ## Instalación
 
